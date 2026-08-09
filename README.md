@@ -103,19 +103,6 @@ and most importantly, <strong>how they can be secured</strong>.
 </p>
 
 <hr>
-
-<h2>📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SRINIVASKALYAN30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIVASKALYAN30&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-</div>
-
-<hr>
-
 <h2>🔥 GitHub Streak</h2>
 
 <div align="center">
