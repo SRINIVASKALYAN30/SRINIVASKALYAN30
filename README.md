@@ -20,7 +20,8 @@
 
 <table>
 <tr>
-<td>
+
+<td width="65%" valign="top">
 
 <pre>
 Name: Srinivas Kalyan
@@ -35,9 +36,12 @@ Focus:
   - AI & Security 🤖
 </pre>
 
-</td>
-</tr>
-</table>
+<p>
+I'm a <strong>Cyber Security student and aspiring Full-Stack Developer</strong>
+passionate about building applications that are functional, secure, scalable,
+and user-friendly.
+</p>
+
 <p>
 I enjoy exploring the intersection of <strong>Cyber Security, Web Development,
 and AI</strong>, while continuously improving my development and
@@ -48,13 +52,25 @@ problem-solving skills.
 💡 <strong>"Build it. Secure it. Improve it."</strong>
 </blockquote>
 
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Coding Cat GIF">
+
+</td>
+
+</tr>
+</table>
+
 <hr>
 
-<div align="center">
+<h2>🛡️ My Cyber Security Journey</h2>
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
-
-</div>
+<p>
+I'm interested in understanding how systems work, how vulnerabilities occur,
+and most importantly, <strong>how they can be secured</strong>.
+</p>
 
 <h3>🔧 Security Tools</h3>
 
@@ -80,15 +96,10 @@ problem-solving skills.
 <h2>💻 Tech Stack</h2>
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Programming Languages">
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Technologies">
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,prisma,postgres,mysql" alt="Backend Technologies">
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" alt="Tools and Platforms">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies">
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,prisma,postgres,mysql,supabase" alt="Backend and Database Technologies">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Tools and Platforms">
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=white" alt="Antigravity">
 </p>
 
 <hr>
@@ -147,15 +158,17 @@ problem-solving skills.
 
 <div align="center">
 
+<p>
+<strong>🛡️ Secure by Design &nbsp; • &nbsp; 💻 Code with Purpose &nbsp; • &nbsp; 🚀 Keep Building</strong>
+</p>
+
 <br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-
-<br><br>
 
 <h3>🚀 Learning • Building • Securing • Improving</h3>
 
-<p><strong>Thanks for visiting my profile! Let's Connect !⭐</strong></p>
+<p>
+<strong>Thanks for visiting my profile! ⭐</strong>
+</p>
 
 <br>
 
