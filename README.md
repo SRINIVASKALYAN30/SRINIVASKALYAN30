@@ -56,7 +56,7 @@ problem-solving skills.
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Coding Cat GIF">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
 
 </td>
 
