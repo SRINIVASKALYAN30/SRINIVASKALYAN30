@@ -2,7 +2,7 @@
 
 <h1>👋 Hey, I'm Srinivas Kalyan!</h1>
 
-<h3>🛡️ Cyber Security Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🚀 Beginner Developer</h3>
+<h3>🛡️ Cyber Security Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; </h3>
 
 <br>
 
